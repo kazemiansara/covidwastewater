@@ -1,4 +1,3 @@
-#Sharif Amlani
 #R 4.1.1
 #Summer 2022
 
