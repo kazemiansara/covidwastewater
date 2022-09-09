@@ -5,9 +5,9 @@ account: sarakazemian
 server: shinyapps.io
 hostUrl: https://api.shinyapps.io/v1
 appId: 6789011
-bundleId: 6204262
+bundleId: 6204820
 url: https://sarakazemian.shinyapps.io/covidwastewater/
-when: 1660600279.3181
-lastSyncTime: 1660600279.31811
+when: 1660617052.34654
+lastSyncTime: 1660617052.34655
 asMultiple: FALSE
 asStatic: FALSE
